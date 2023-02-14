@@ -9,4 +9,4 @@ prompts for lotterybarn / snap
 # UP! Character
 * File: upchar.txt
 * Model: Generative
-* Stop Sequences: "}"
+* Stop Sequences: "]"
