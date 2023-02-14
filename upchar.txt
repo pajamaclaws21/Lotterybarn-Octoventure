@@ -1,0 +1,11 @@
+Generate a banner's UP! character. These characters should be of rarities 5-7 and have a unique name, class, and message. The message should be a short phrase (max 2 sentences) that represents the character's personality. The result should be in JSON format. Here are a few examples:
+[{"name": “Kurt"}, {"rarity": 5}, {"class": "Student"}, {“message”: “Another detention?! My mom’s gonna kill me...”}]
+[{"name": "Alice"}, {"rarity": 5}, {"class": "Genie"}, {“message”: “You can get anything you want~ if you wish for it~”}]
+[{"name": "Rosy"}, {"rarity": 7}, {"class": "Golden"}, {“message”: “When you are called, you must answer.”}]
+[{"name": "Woman"}, {"rarity": 6}, {"class": "Turkey"}, {“message”: “I AM TURKEY”}]
+[{"name": "Jeanie"}, {"rarity": 5}, {"class": "Plant Mom"}, {“message”: “GOOOO JEN! YOU KICK THAT BALL!”}]
+[{"name": "Lexei"}, {"rarity": 6}, {"class": "Necromancy Coach"}, {“message”: “Step 1 - salt. Lots and lots of salt.”}]
+[{"name": "Booth"}, {"rarity": 7}, {"class": "Altruisticer"}, {“message”: “Campaigning step 1 - you gotta stay ahead of the game.”}]
+
+
+Generate a character (don't forget the square brackets). The theme should be “
