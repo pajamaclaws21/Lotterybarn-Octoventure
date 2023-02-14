@@ -1,0 +1,56 @@
+Here is example code for a game:
+<gacha>
+<tix>5</tix>
+Game: Please choose a gacha banner.
+Player: wishbone banner
+<ending>
+[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}, {“theme”: “wishbone”}}]
+</ending>
+<ask>
+<answer>
+<characterDefinition>
+[{"name": "Woman"}, {"rarity": 6}, {"class": "Turkey"}, {“message”: “I AM TURKEY”}]
+</characterDefinition>
+</answer>
+Game: Wishbone Banner (EVENT!) UP :: Woman, 6-star Turkey
+Game: Pull on this banner?
+Player: yes
+Game: You pull once on the banner…
+<ending>
+[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}}]
+</ending>
+<ask>
+<characterDefinition>
+[{"name": "Nigel"}, {"rarity": 4}, {"class": "Student"}, {“message”: “Is it time already?”}]
+</characterDefinition>
+</answer>
+"Is it time already?"
+NIGEL, 4-STAR STUDENT
+</gacha>
+<tix>4</tix>
+<inventory>
+[“Nigel”]
+</inventory>
+
+Here is another example:
+<gacha>
+<tix>2</tix>
+Game: Please choose a gacha banner.
+Player: cartel banner
+<ending>
+[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}, {“theme”: “cartel”}}]
+</ending>
+<ask>
+<answer>
+<characterDefinition>
+[{"name": "Jakiz"}, {"rarity": 5}, {"class": "Mafioso"}, {“message”: “There is one place for people like you to go.”}]
+</characterDefinition>
+</answer>
+Game: Cartel Banner - UP :: Jakiz, 5-star Mafioso
+Game: Pull on this banner?
+Player: skip
+Game: Skipping banner, returning to main page.
+</gacha>
+<tix>2</tix>
+
+Generate your own:
