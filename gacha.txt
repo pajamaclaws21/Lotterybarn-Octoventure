@@ -17,7 +17,7 @@ Game: Pull on this banner?
 Player: yes
 Game: You pull once on the banner…
 <ending>
-{“next”: “ask”, “details”: {“for”: “generate-Character”}}
+{“next”: “ask”, “details”: {“for”: “generate-Character”, “theme”: “wishbone”}}
 </ending>
 <ask>
 <characterDefinition>
