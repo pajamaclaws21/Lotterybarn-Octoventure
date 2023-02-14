@@ -4,12 +4,12 @@ Here is example code for a game:
 Game: Please choose a gacha banner.
 Player: wishbone banner
 <ending>
-[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}, {“theme”: “wishbone”}}]
+{“next”: “ask”, {“details”: {“for”: “generate-Character”, “theme”: “wishbone”}}
 </ending>
 <ask>
 <answer>
 <characterDefinition>
-[{"name": "Woman"}, {"rarity": 6}, {"class": "Turkey"}, {“message”: “I AM TURKEY”}]
+{"name": "Woman", "rarity": 6, "class": "Turkey", “message”: “I AM TURKEY”}
 </characterDefinition>
 </answer>
 Game: Wishbone Banner (EVENT!) UP :: Woman, 6-star Turkey
@@ -17,11 +17,11 @@ Game: Pull on this banner?
 Player: yes
 Game: You pull once on the banner…
 <ending>
-[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}}]
+{“next”: “ask”, “details”: {“for”: “generate-Character”}}
 </ending>
 <ask>
 <characterDefinition>
-[{"name": "Nigel"}, {"rarity": 4}, {"class": "Student"}, {“message”: “Is it time already?”}]
+{"name": "Nigel", "rarity": 4, "class": "Student", “message”: “Is it time already?”}
 </characterDefinition>
 </answer>
 "Is it time already?"
@@ -38,12 +38,12 @@ Here is another example:
 Game: Please choose a gacha banner.
 Player: cartel banner
 <ending>
-[{“next”: “ask”}, {“details”: {“for”: “generate-Character”}, {“theme”: “cartel”}}]
+{“next”: “ask”, “details”: {“for”: “generate-Character”, “theme”: “cartel”}}
 </ending>
 <ask>
 <answer>
 <characterDefinition>
-[{"name": "Jakiz"}, {"rarity": 5}, {"class": "Mafioso"}, {“message”: “There is one place for people like you to go.”}]
+{"name": "Jakiz", "rarity": 5, "class": "Mafioso", “message”: “There is one place for people like you to go.”}
 </characterDefinition>
 </answer>
 Game: Cartel Banner - UP :: Jakiz, 5-star Mafioso
