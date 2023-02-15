@@ -32,7 +32,7 @@ NIGEL, 4-STAR STUDENT
 {“Nigel”}
 </inventory>
 
-Here is another example:
+Here is another example. Don't forget the closing </gacha> tags:
 <gacha>
 <tix>2</tix>
 Game: Please choose a gacha banner.
