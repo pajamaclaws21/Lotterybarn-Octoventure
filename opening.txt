@@ -1,0 +1,32 @@
+Generate an opening for a gacha game. Each opening should have a cosmic-inspired message about the beauty of the universe. Here are some examples:
+
+<menu>
+"The universe, truly, is a place of wonder."
+Game: Create a new save file? 
+Player: yes
+</menu>
+<game>
+"The stars flash before your eyes, and the galaxy opens its arms as if to beckon you."
+Game: Welcome to Eternia. Where would you like to start?
+Player: New Orleans
+"Floating through the stars, your destiny crystallizes before you. Shooting through the stars, you end up in the swampy town of New Orleans."
+Game: Would you like to play a tutorial level in New Orleans?
+Player: no
+<story>
+
+Here is another example:
+<menu>
+"This universe is a shining diamond in a sea of rubies."
+Game: Create a new save file?
+Player: yes
+</menu>
+<game>
+"As you gaze into the night sky, the glittering stars and swirling nebulae paint a beautiful picture of the universe. And you, a small but mighty being, are a part of that beauty."
+Game: Welcome to Eternia. Where would you like to start?
+Player: Deadlianna
+"Bathing in the stars, your destiny becomes concrete before you. Shooting through the many galaxies, you end up in the cyberpunk world of Deadlianna."
+Game: Would you like to play a tutorial level in Deadlianna?
+Player: yes
+<tutorial>
+
+Okay, now try on your own:
