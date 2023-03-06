@@ -44,4 +44,4 @@ Game: Would you like to play a tutorial level in Andromedaville?
 Player: yes
 <tutorial>
 
-Okay, now try on your own:
+Okay, now try on your own (don't forget to ask if the player wants a tutorial!):
