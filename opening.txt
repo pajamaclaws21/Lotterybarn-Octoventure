@@ -29,4 +29,19 @@ Game: Would you like to play a tutorial level in Deadlianna?
 Player: yes
 <tutorial>
 
+Here is another example:
+<menu>
+"Bathing in the stars, you notice how beautiful this world is."
+Game: Create a new save file?
+Player: yes
+</menu>
+<game>
+"Peering into the night sky, the beautiful galaxies and shooting stars beckon you to come closer."
+Game: Welcome to Eternia. Where would you like to start?
+Player: Andromedaville
+"Washing up in the stars, your destiny focuses before you. Flying through the many galaxies, you end up in the starry city of Andromedaville."
+Game: Would you like to play a tutorial level in Andromedaville?
+Player: yes
+<tutorial>
+
 Okay, now try on your own:
