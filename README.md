@@ -7,7 +7,7 @@ Note about parentheses in stop sequences: *There shouldn't be parentheses! I had
 ### Gacha
 * File: gacha.txt
 * Model: Generative
-* Stop Sequences: "Player:", "(<)ask(>)" 
+* Stop Sequences: "Player:", "(<)ask(>)", "(<)/inventory(>)"
 
 ### UP! Character + Pulled Character
 * File: upchar.txt & newchar.txt, respectively
