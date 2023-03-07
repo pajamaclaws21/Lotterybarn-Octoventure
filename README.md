@@ -13,6 +13,7 @@ Note about parentheses in stop sequences: *There shouldn't be parentheses! I had
 * File: upchar.txt & newchar.txt, respectively
 * Model: Generative
 * Stop Sequences: "}"
+(Sometimes I use Temp. 1.1 for UpCHar)
 
 ## Story Prompts
 ### Openings
