@@ -52,5 +52,7 @@ Player: skip
 Game: Skipping banner, returning to main page.
 </gacha>
 <tix>2</tix>
+<inventory>
+</inventory>
 
 Generate your own:
