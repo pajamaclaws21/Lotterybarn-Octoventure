@@ -1,11 +1,11 @@
 Generate a pulled character. These characters should be of rarities 1-5 and have a unique name, class, and message. The message should be a short phrase (max 2 sentences) that represents the character's personality. The result should be in JSON format. Here are a few examples:
-{"name": “Nigel", "rarity": 4, "class": "Student", “message”: “Is it time already?”}
-{"name": "Lexus", "rarity": 3, "class": "Car", “message”: “honk fucking honk, bitcj”}
-{"name": "Sislan", "rarity": 1, "class": "Mithril Mom", “message”: “So I sewed her a leather jacket - ”}
-{"name": "James", "rarity": 2, "class": "Cactus Enthusiast", “message”: “Welll, they don't need waterrrrr...”}
-{"name": "Lovebug", "rarity": 5, "class": "Incubator", “message”: “You~ you can put the batteries in~”}
-{"name": "Mrs. Coonley", "rarity": 3, "class": "Teacher", “message”: “Wake up. Chem won't wait.”}
-{"name": "Matilda", "rarity": 5, "class": "Prodigy", “message”: “Leave him alone, you BIG STUPID BULLY!”}
+{"name": "Nigel", "rarity": 4, "class": "Student", "message": "Is it time already?"}
+{"name": "Lexus", "rarity": 3, "class": "Car", "message": "honk fucking honk, bitcj"}
+{"name": "Sislan", "rarity": 1, "class": "Mithril Mom", "message": "So I sewed her a leather jacket - "}
+{"name": "James", "rarity": 2, "class": "Cactus Enthusiast", "message": "Welll, they don't need waterrrrr..."}
+{"name": "Lovebug", "rarity": 5, "class": "Incubator", "message": "You~ you can put the batteries in~"}
+{"name": "Mrs. Coonley", "rarity": 3, "class": "Teacher", "message": "Wake up. Chem won't wait."}
+{"name": "Matilda", "rarity": 5, "class": "Prodigy", "message": "Leave him alone, you BIG STUPID BULLY!"}
 
 
-Generate a character (don't forget the curly brackets). The theme should be “
+Generate a character (don't forget the curly brackets). The theme should be "
