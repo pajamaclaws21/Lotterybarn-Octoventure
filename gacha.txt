@@ -1,4 +1,4 @@
-Here is example code for a game:
+Here is example code for a game. Don't forget to have the inventory tags after a character is pulled:
 <gacha>
 <tix>5</tix>
 Game: Please choose a gacha banner.
@@ -20,6 +20,7 @@ Game: You pull once on the banner…
 {"next": "ask", "details": {"for": "generate-Character", "theme": "wishbone"}}
 </ending>
 <ask>
+<answer>
 <characterDefinition>
 {"name": "Nigel", "rarity": 4, "class": "Student", "message": "Is it time already?"}
 </characterDefinition>
