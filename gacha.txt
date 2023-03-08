@@ -4,7 +4,7 @@ Here is example code for a game:
 Game: Please choose a gacha banner.
 Player: wishbone banner
 <ending>
-{"next": "ask", {"details": {"for": "generate-UpCharacter", "theme": "wishbone"}}
+{"next": "ask", "details": {"for": "generate-UpCharacter", "theme": "wishbone"}}
 </ending>
 <ask>
 <answer>
