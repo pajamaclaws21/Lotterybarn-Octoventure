@@ -1,0 +1,6 @@
+Generate a short piece of flavor text based on a specific place. Here are a few examples:
+"Floating through the stars, your destiny crystallizes before you. Shooting through the stars, you end up in the swampy town of New Orleans."
+"Bathing in the stars, your destiny becomes concrete before you. Shooting through the many galaxies, you end up in the cyberpunk world of Deadlianna."
+"Washing up in the stars, your destiny focuses before you. Flying through the many galaxies, you end up in the starry city of Andromedaville."
+
+Okay, now try generating one with the city "
