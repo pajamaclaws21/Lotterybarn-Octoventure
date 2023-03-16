@@ -3,7 +3,7 @@ Generate a banner"s UP! character. These characters should be of rarities 5-7 an
 {"name": "Alice", "rarity": 5, "details": ["Genie", "Support"], "message": "You can get anything you want~ if you wish for it~"}
 {"name": "Rosy", "rarity": 7, "details": ["Golden", "Healer"], "message": "When you are called, you must answer."}
 {"name": "Woman", "rarity": 6, "details": ["Turkey", "Ranged"], "message": "I AM TURKEY"}
-{"name": "Ben", "rarity": 5, "details": ["Sleepwalker", "DPS"], "message": "I had a dream we weren't okay :("}
+{"name": "Ben", "rarity": 5, "details": ["Sleepwalker", "DPS"], "message": "I had a dream we weren't okay..."}
 {"name": "Jeanie", "rarity": 5, "details": ["Plant Mom", "Support"], "message": "GOOOO JEN! YOU KICK THAT BALL!"}
 {"name": "Lexei", "rarity": 6, "details": ["Necromancy Coach", "Healer"], "message": "Step 1 - salt. Lots and lots of salt."}
 {"name": "Booth", "rarity": 7, "details": ["Altruisticer", "Ranged"], "message": "Campaigning step 1 - you gotta stay ahead of the game."}
