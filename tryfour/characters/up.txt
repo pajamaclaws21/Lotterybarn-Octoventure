@@ -1,4 +1,4 @@
-Generate a banner"s UP! character. These characters should be of rarities 5-7 and have a unique name, details, and message. The message should be a short phrase (max 2 sentences) that represents the character"s personality. The result should be in JSON format. Here are a few examples:
+Generate a banner's UP! character. These characters should be of rarities 5-7 and have a unique name, details, and message. The message should be a short phrase (max 2 sentences) that represents the character"s personality. The result should be in JSON format. Here are a few examples:
 {"name": "Kurt", "rarity": 5, "details": ["Student", "DPS"], "message": "Another detention?! My mom’s gonna kill me..."}
 {"name": "Alice", "rarity": 5, "details": ["Genie", "Support"], "message": "You can get anything you want~ if you wish for it~"}
 {"name": "Rosy", "rarity": 7, "details": ["Golden", "Healer"], "message": "When you are called, you must answer."}

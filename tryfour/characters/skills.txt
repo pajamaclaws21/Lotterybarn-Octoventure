@@ -1,0 +1,41 @@
+Generate a character's combat skills based on info about them. Better skills should be linked to higher rarity.
+
+CHARACTER:
+{"name": "Kurt", "rarity": 5, "details": ["Student", "DPS"], "message": "Another detention?! My mom’s gonna kill me..."}
+DETAILS:
+Rarity - 5
+Class - Student
+Type - DPS
+SKILLS:
+Normal
+Passive
+Burst
+--
+CHARACTER:
+{"name": "Rosy", "rarity": 7, "details": ["Golden", "Healer"], "message": "When you are called, you must answer."}
+DETAILS:
+Rarity - 7
+Class - Golden
+Type - Healer
+SKILLS:
+Normal
+Passive
+Burst
+--
+CHARACTER:
+
+DETAILS:
+SKILLS:
+Normal
+Passive
+Burst
+--
+CHARACTER:
+
+DETAILS:
+SKILLS:
+Normal
+Passive
+Burst
+--
+Now try with the following character:
