@@ -7,9 +7,9 @@ Rarity - 5
 Class - Student
 Type - DPS
 SKILLS:
-Normal
-Passive
-Burst
+Normal - "Schoolyard Banter" - Hits the nearest enemy with a 20% chance to make the target Confused. 
+Passive - "Special Little Guy" - Attacks from Kurt do 50% more damage to large enemies.
+Burst - "Budding Astronaut" - Sends the nearest enemy flying into space, dealing 150% of Kurt's ATK as pure damage. 
 --
 CHARACTER:
 {"name": "Rosy", "rarity": 7, "details": ["Golden", "Healer"], "message": "When you are called, you must answer."}
@@ -18,9 +18,9 @@ Rarity - 7
 Class - Golden
 Type - Healer
 SKILLS:
-Normal
-Passive
-Burst
+Normal - "" - 
+Passive - "" - 
+Burst - "" - 
 --
 CHARACTER:
 {"name": "Mrs. Coonley", "rarity": 3, "details": ["Teacher", "Support"], "message": "Wake up. Chem won't wait."}
@@ -29,9 +29,9 @@ Rarity - 3
 Class - Teacher
 Type - Support
 SKILLS:
-Normal
-Passive
-Burst
+Normal - "" - 
+Passive - "" - 
+Burst - "" - 
 --
 CHARACTER:
 {"name": "Matilda", "rarity": 4, "details": ["Prodigy", "DPS"], "message": "Leave him alone, you BIG STUPID BULLY!"}
@@ -40,8 +40,8 @@ Rarity - 4
 Class - Prodigy
 Type - DPS
 SKILLS:
-Normal
-Passive
-Burst
+Normal - "" - 
+Passive - "" - 
+Burst - "" - 
 --
-Now try with the following character:
+CHARACTER:
