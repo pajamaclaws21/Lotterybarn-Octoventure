@@ -1,0 +1,11 @@
+Generate a pulled character. These characters should be of rarities 1-5 and have a unique name, class, and message. The message should be a short phrase (max 2 sentences) that represents the character"s personality. The result should be in JSON format. Here are a few examples:
+{"name": "Nigel", "rarity": 4, "details": ["Student", "Support"], "message": "Is it time already?"}
+{"name": "Lexus", "rarity": 3, "details": ["Car", "DPS"], "message": "honk fucking honk, bitcj"}
+{"name": "Sislan", "rarity": 1, "details": ["Mithril Mom", "Healer"], "message": "So I sewed her a leather jacket - "}
+{"name": "James", "rarity": 2, "details": ["Cactus Enthusiast", "DPS"], "message": "Welll, they don"t need waterrrrr..."}
+{"name": "Lovebug", "rarity": 5, "details": ["Incubator", "Support"], "message": "You~ you can put the batteries in~"}
+{"name": "Mrs. Coonley", "rarity": 3, "details": ["Teacher", "Support"], "message": "Wake up. Chem won't wait."}
+{"name": "Matilda", "rarity": 4, "details": ["Prodigy", "DPS"], "message": "Leave him alone, you BIG STUPID BULLY!"}
+
+
+Generate a character (don"t forget the curly brackets). The theme should be "

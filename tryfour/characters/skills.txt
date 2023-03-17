@@ -23,16 +23,22 @@ Passive
 Burst
 --
 CHARACTER:
-
+{"name": "Mrs. Coonley", "rarity": 3, "details": ["Teacher", "Support"], "message": "Wake up. Chem won't wait."}
 DETAILS:
+Rarity - 3
+Class - Teacher
+Type - Support
 SKILLS:
 Normal
 Passive
 Burst
 --
 CHARACTER:
-
+{"name": "Matilda", "rarity": 4, "details": ["Prodigy", "DPS"], "message": "Leave him alone, you BIG STUPID BULLY!"}
 DETAILS:
+Rarity - 4
+Class - Prodigy
+Type - DPS
 SKILLS:
 Normal
 Passive
